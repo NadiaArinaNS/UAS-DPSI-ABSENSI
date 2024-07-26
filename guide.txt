@@ -1,0 +1,10 @@
+1. server (node Js - Express)
+    - tabel yang sudah dibuat
+    - database = mongoDB
+    - deployment = heroku
+    a. Express
+    b. mongoose
+    c. mongoDB Atlas
+2. client
+    - React Js
+    - deployment = Firebase
